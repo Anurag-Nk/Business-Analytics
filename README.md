@@ -283,7 +283,7 @@ Analyze city-wise revenue distribution and delivery performance for regional exp
 
 ## Delivery & Operations
 
-![Delivery and Operations](images/Delivery%20and%20Operations.png)
+![Delivery and Operations](https://github.com/Anurag-Nk/Business-Analytics/blob/main/Delivery%20and%20Operations.png)
 
 ---
 
