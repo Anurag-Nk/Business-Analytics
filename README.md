@@ -297,11 +297,3 @@ Analyze city-wise revenue distribution and delivery performance for regional exp
 
 ![Advanced Insights](https://github.com/Anurag-Nk/Business-Analytics/blob/main/Advanced%20Insights.png)
 
-
-
-
-
-
----
-
-# ⭐ If you found this project helpful, consider giving it a star!
