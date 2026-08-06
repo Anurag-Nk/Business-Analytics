@@ -277,7 +277,7 @@ Analyze city-wise revenue distribution and delivery performance for regional exp
 
 ## Restaurant Performance
 
-![Restaurant Performance](images/Restaurant%20Performance.png)
+![Restaurant Performance](https://github.com/Anurag-Nk/Business-Analytics/blob/main/Restaurant%20Performance.png)
 
 ---
 
