@@ -265,7 +265,7 @@ Analyze city-wise revenue distribution and delivery performance for regional exp
 
 ## Executive Overview
 
-![Executive Overview](images/Executive%20Overview.png)
+![Executive Overview]([images/Executive%20Overview.png](https://github.com/Anurag-Nk/Business-Analytics/blob/main/Executive%20Overview.png))
 
 ---
 
