@@ -271,7 +271,7 @@ Analyze city-wise revenue distribution and delivery performance for regional exp
 
 ## Customer Analysis
 
-![Customer Analysis](images/Customer%20Analysis.png)
+![Customer Analysis](https://github.com/Anurag-Nk/Business-Analytics/blob/main/Customer%20Analysis.png)
 
 ---
 
