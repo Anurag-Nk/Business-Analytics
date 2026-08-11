@@ -297,3 +297,14 @@ Analyze city-wise revenue distribution and delivery performance for regional exp
 
 ![Advanced Insights](https://github.com/Anurag-Nk/Business-Analytics/blob/main/Advanced%20Insights.png)
 
+---
+
+# 👨‍💻 Author
+
+**Anurag**
+
+Aspiring Data Analyst | Power BI | Tableau | SQL | Excel | Python
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
